@@ -1,9 +1,12 @@
 alert("Hello World");
 
-alert("Again");
+var age = 45;
+var nationality = "Pakistani";
 
-window.alert(23);
+var feePaid = true; 
 
-console.log("Hello World");
+alert(nationality);
+console.log("age");
 
-document.write("learning javascript");
+
+console.log(feePaid);

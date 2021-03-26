@@ -29,4 +29,9 @@ console.log(message);
 // var a = null;
 // console.log(a);
 var age = 34;
+
+console.log(typeof age);
 age = "Thirty four"; // datatypes
+
+console.log(typeof age);
+

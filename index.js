@@ -22,3 +22,9 @@ name = "john";
 console.log(name);
 
 console.log(message);
+
+var a ;
+console.log(a);
+
+var a = null;
+console.log(a);

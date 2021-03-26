@@ -35,3 +35,8 @@ age = "Thirty four"; // datatypes
 
 console.log(typeof age);
 
+var a=8; var b = 0; var c = 9;
+alert(a);alert(b);alert(c);
+
+//things which contains = are statement and which doesnot have it are expressions
+
